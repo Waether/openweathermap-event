@@ -1,0 +1,14 @@
+{
+  "name": "openweathermap-event",
+  "version": "1.0.0",
+  "description": "An event based wrapper for openweathermap.org",
+  "main": "openweathermap-event.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "nathan.hautbois@epitech.eu",
+  "devDependencies": {},
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
